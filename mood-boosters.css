@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+section {
+  min-height: 200px;
+  padding: 6% 0;
+  background-color: #bbb;
+  border: 1px solid black;
+  min-width: 200px;
+}
+
+div {
+    display: inline-block;
+}
+
+p {
+    display: inline-block;
+    border: 1px solid black;
+    padding:3px;
+}
